@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559065847230.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "786EF0D9",
+    "lastKnownWriteTime" : 1559069571,
+    "last_content_update" : 1559069571116,
+    "path" : "C:/Users/m752409/Desktop/DPIT/00-Projetos/01-AutomatizacaoCertidoesSTI/basesSGTI/data-raw/data-prep.R",
+    "project_path" : "data-raw/data-prep.R",
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "7"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
