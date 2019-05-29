@@ -11,20 +11,20 @@ linhas <- read_excel("../bases-SGTI/linhas.xlsx")
 linhas <- linhas[ , -12] #exclui coluna 12 "Data de Validade"
 
 #renomeia colunas
-colnames(linhas) <- c("numero-linha",
-                  "nome-linha",
+colnames(linhas) <- c("numero_linha",
+                  "nome_linha",
                   "situacao",
-                  "cod-deleg",
+                  "cod_deleg",
                   "nome-deleg",
-                  "cod-tipo-utilizacao",
-                  "nome-tipo-utilizacao",
-                  "codigo-tipo-contrato",
-                  "nome-tipo-contrato",
-                  "numero-contrato",
-                  "vencimento-contrato",
-                  "inicio-vigencia",
-                  "n-veiculos",
-                  "tarifa-min",
+                  "cod_tipo-utilizacao",
+                  "nome_tipo_utilizacao",
+                  "cod_tipo_contrato",
+                  "nome_tipo_contrato",
+                  "numero_contrato",
+                  "vencimento_contrato",
+                  "inicio_vigencia",
+                  "n_veiculos",
+                  "tarifa_min",
                   "obs")
 
 
